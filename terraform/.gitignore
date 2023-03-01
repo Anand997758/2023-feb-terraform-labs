@@ -1,0 +1,11 @@
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*.terraform.lock.hcl
+*.terraform.tfstate 
+*.terraform.tfstate.backup
+*.terrafom-provider-aws_v4.56.0_x
+*.terraform
